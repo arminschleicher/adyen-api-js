@@ -1,7 +1,7 @@
 {
   "name": "adyen-api-js",
-  "version": "1.25.1",
-  "description": "Operations_about_payments_recurring_and_payout",
+  "version": "1.25.2",
+  "description": "Operations_about_payments_recurring_and_payout_and_marketpay",
   "license": "Apache-2.0",
   "main": "src/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/travelcar/adyen-api-js.git"
+    "url": "git+https://github.com/arminschleicher/adyen-api-js"
   },
   "keywords": [
     "adyen",
@@ -30,9 +30,9 @@
     "nodejs",
     "swagger"
   ],
-  "author": "Travelcar",
+  "author": "arminschleicher",
   "bugs": {
-    "url": "https://github.com/travelcar/adyen-api-js/issues"
+    "url": "https://github.com/arminschleicher/adyen-api-js/issues"
   },
-  "homepage": "https://github.com/travelcar/adyen-api-js#readme"
+  "homepage": "https://github.com/arminschleicher/adyen-api-js#readme"
 }
